@@ -1,0 +1,270 @@
+.full-layout {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1119px;
+    height: 1350px;
+    background: #FFFFFF no-repeat padding-box;
+    opacity: 1;
+    letter-spacing: 1px; 
+    line-height: 1.5; 
+}
+
+.element1 {
+    position: absolute;
+    top: 57px;
+    left: 140px;
+    width: 82px;
+    height: 43px;
+    font: normal bold 32px/36px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-align: left;
+    opacity: 1;
+}
+
+.element2 {
+    position: absolute;
+    top: 219px;
+    left: 159px;
+    width: 28px;
+    height: 20px;
+    font: normal medium 14px/63px Roboto;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element3 {
+    position: absolute;
+    top: 239px;
+    left: 159px;
+    width: 96px;
+    height: 33px;
+    font: normal bold 24px/80px Noto Sans;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: center;
+    opacity: 1;
+}
+
+.element4 {
+    position: absolute;
+    top: 272px;
+    left: 159px;
+    width: 356px;
+    height: 19px;
+    font: normal medium 14px/63px Roboto;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element5 {
+    position: absolute;
+    top: 323px;
+    left: 140px;
+    width: 75px;
+    height: 43px;
+    font: normal bold 32px/36px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-align: left;
+    opacity: 1;
+}
+
+.element6 {
+    position: absolute;
+    top: 390px;
+    left: 159px;
+    width: 156px;
+    height: 33px;
+    font: normal bold 24px/80px Noto Sans;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element7 {
+    position: absolute;
+    top: 423px;
+    left: 159px;
+    width: 323px;
+    height: 19px;
+    font: normal medium 14px/63px Roboto;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element8 {
+    position: absolute;
+    top: 474px;
+    left: 140px;
+    width: 102px;
+    height: 43px;
+    font: normal bold 32px/36px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-align: left;
+    opacity: 1;
+}
+.element9 {
+    position: absolute;
+    top: 390px;
+    left: 159px;
+    width: 156px;
+    height: 33px;
+    font: normal bold 24px/80px Noto Sans;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element10 {
+    position: absolute;
+    top: 423px;
+    left: 159px;
+    width: 323px;
+    height: 19px;
+    font: normal medium 14px/63px Roboto;
+    letter-spacing: 0px;
+    color: #650300;
+    text-align: left;
+    opacity: 1;
+}
+
+.element11 {
+    position: absolute;
+    top: 474px;
+    left: 140px;
+    width: 102px;
+    height: 43px;
+    font: normal bold 32px/36px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-align: left;
+    opacity: 1;
+}
+
+.box {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    opacity: 1;
+}
+
+#box1 {
+    top: 541px;
+    left: 159px;
+    background: #FBF2F2 no-repeat padding-box;
+}
+
+#box2 {
+    top: 541px;
+    left: 301px;
+    background: #000000 no-repeat padding-box;
+}
+
+#box3 {
+    top: 541px;
+    left: 443px;
+    background: #AA0601 no-repeat padding-box;
+}
+
+.box {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    opacity: 1;
+}
+
+#box1 {
+    top: 541px;
+    left: 159px;
+    background: #FBF2F2 no-repeat padding-box;
+}
+
+#box2 {
+    top: 541px;
+    left: 301px;
+    background: #000000 no-repeat padding-box;
+}
+
+#box3 {
+    top: 541px;
+    left: 443px;
+    background: #AA0601 no-repeat padding-box;
+}
+
+.text {
+    position: absolute;
+    top: 667px;
+    width: 126px;
+    height: 33px;
+    font: normal bold 24px/63px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-align: center;
+    opacity: 1;
+}
+
+.element12 {
+    top: 732px;
+    left: 140px;
+    width: 82px;
+    height: 43px;
+    font: var(--unnamed-font-style-normal) normal bold 32px/36px Roboto;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal bold 32px/36px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.custom-box {
+    position: absolute;
+    width: 126px;
+    height: 43px;
+    opacity: 1;
+}
+
+#box4 {
+    top: 799px;
+    left: 425px;
+    background: #AA0601 no-repeat padding-box;
+}
+
+#box5 {
+    top: 854px;
+    left: 425px;
+    background: #AA0601 no-repeat padding-box;
+}
+
+#box6 {
+    top: 908px;
+    left: 425px;
+    background: #AA0601 no-repeat padding-box;
+}
+
+.box-text {
+    position: absolute;
+    top: 810px;
+    left: 472px;
+    width: 32px;
+    height: 22px;
+    font: normal medium 16px/24px PingFang TC;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-align: center;
+    opacity: 1;
+}
+
+
